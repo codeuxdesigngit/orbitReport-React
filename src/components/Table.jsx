@@ -1,4 +1,5 @@
 import "./styling.css";
+// May be style CSS later
 
 const Table = ({ sat }) => {
   return (
